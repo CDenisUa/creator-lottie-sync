@@ -1,0 +1,3 @@
+mkdir -p .husky
+touch .husky/pre-commit
+chmod +x .husky/pre-commit
